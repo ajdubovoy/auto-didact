@@ -1,0 +1,1 @@
+This is a repository that I have created to store projects where I am teaching myself new skills and language. Please do not judge the results--they are not completed projects and are only for learning projects.
